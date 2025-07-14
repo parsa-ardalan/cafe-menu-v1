@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "banana",
+        "imgAddress": "/images/milkshakes/banana.jpg",
+        "price": 8.75
+    },
+    {
+        "id": 2,
+        "name": "cocout",
+        "imgAddress": "/images/milkshakes/cocnut.jpg",
+        "price": 5.50
+    },
+    {
+        "id": 3,
+        "name": "almond",
+        "imgAddress": "/images/milkshakes/almond.webp",
+        "price": 4.35
+    },
+    {
+        "id": 4,
+        "name": "date",
+        "imgAddress": "/images/milkshakes/date.jpg",
+        "price": 4.35
+    },
+    {
+        "id": 5,
+        "name": "mango",
+        "imgAddress": "/images/milkshakes/mango.jpg",
+        "price": 4.35
+    },
+    {
+        "id": 6,
+        "name": "pistachio",
+        "imgAddress": "/images/milkshakes/pistachio.webp",
+        "price": 4.35
+    }
+]

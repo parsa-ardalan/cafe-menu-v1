@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "apple pie",
+        "imgAddress": "/images/cakes/apple-pie.jpg",
+        "price": 8.75
+    },
+    {
+        "id": 2,
+        "name": "chocolate",
+        "imgAddress": "/images/cakes/chocolate.jpg",
+        "price": 5.50
+    },
+    {
+        "id": 3,
+        "name": "Fruit",
+        "imgAddress": "/images/cakes/fruit.jpg",
+        "price": 4.35
+    },
+    {
+        "id": 4,
+        "name": "cream",
+        "imgAddress": "/images/cakes/cream.jpg",
+        "price": 4.35
+    },
+    {
+        "id": 5,
+        "name": "clafoutis",
+        "imgAddress": "/images/cakes/Clafoutis.jpg",
+        "price": 4.35
+    }
+]

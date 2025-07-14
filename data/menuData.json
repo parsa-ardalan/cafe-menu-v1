@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "cake",
+    "imageLink": "/icons/cake.png",
+    "address": "cake"
+  },
+  {
+    "id": 2,
+    "type": "coffee",
+    "imageLink": "/icons/coffee.png",
+    "address": "coffee"
+  },
+  {
+    "id": 3,
+    "type": "juice",
+    "imageLink": "/icons/juice.png",
+    "address": "juice"
+  },
+  {
+    "id": 4,
+    "type": "milkshake",
+    "imageLink": "/icons/milkshake.png",
+    "address": "milkshake"
+  }
+]

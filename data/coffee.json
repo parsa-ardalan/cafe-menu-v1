@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Arabika",
+        "imgAddress": "/images/coffee/arabika.webp",
+        "price": 4.75
+    },
+    {
+        "id": 2,
+        "name": "Robusta",
+        "imgAddress": "/images/coffee/robusta.jpg",
+        "price": 5.50
+    },
+    {
+        "id": 3,
+        "name": "Hot chocolate",
+        "imgAddress": "/images/coffee/HotChocolate.jpg",
+        "price": 6.99
+    },
+    {
+        "id": 4,
+        "name": "Latte",
+        "imgAddress": "/images/coffee/latte.jpeg",
+        "price": 5.5
+    },
+    {
+        "id": 5,
+        "name": "ice Coffee",
+        "imgAddress": "/images/coffee/iceCoffee.jpg",
+        "price": 4.35
+    }
+]

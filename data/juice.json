@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "orange",
+        "imgAddress": "/images/juice/Orangejuice.jpg",
+        "price": 8.75
+    },
+    {
+        "id": 2,
+        "name": "lettuce",
+        "imgAddress": "/images/juice/lettuce.jpg",
+        "price": 5.50
+    },
+    {
+        "id": 3,
+        "name": "pomegranate",
+        "imgAddress": "/images/juice/pomegranate.jpg",
+        "price": 4.35
+    },
+    {
+        "id": 4,
+        "name": "lemonade",
+        "imgAddress": "/images/juice/lemonade.webp",
+        "price": 3.5
+    },
+    {
+        "id": 5,
+        "name": "carrot",
+        "imgAddress": "/images/juice/carrot.jpg",
+        "price": 4.30
+    },
+    {
+        "id": 6,
+        "name": "watermelon",
+        "imgAddress": "/images/juice/watermelon.jpg",
+        "price": 3.25
+    },
+    {
+        "id": 7,
+        "name": "apple",
+        "imgAddress": "/images/juice/apple.jpg",
+        "price": 4.35
+    },
+    {
+        "id": 8,
+        "name": "melon",
+        "imgAddress": "/images/juice/melon.jpg",
+        "price": 5.2
+    },
+    {
+        "id": 9,
+        "name": "Strawberry",
+        "imgAddress": "/images/juice/Strawberry.jpg",
+        "price": 6.5
+    }
+]
